@@ -1,0 +1,133 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 50px;
+    padding: 100px;
+    text-align: center;
+}
+
+/* Pinterest Card */
+
+.card {
+    position: relative;
+    width: 350px;
+    height: 450px;
+    border-radius: 30px;
+    overflow: hidden;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+.img {
+    object-fit: cover;
+    object-position: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.icone{
+    opacity: 0;
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 350px;
+    height: 450px;
+    z-index: 1;
+    transition: 0.1s;
+}
+.card:hover .icone{
+    opacity: 1;
+}
+.card:hover .save{
+    animation-duration: 0.5s;
+    animation-name: slidein;
+}
+@keyframes slidein {
+    from {
+        top: -10px;
+    }
+    to {
+        top: 3px;
+    }
+}
+.card:hover .info, .card:hover .download, .card:hover .option{
+    animation-duration: 0.5s;
+    animation-name: slideout;
+}
+@keyframes slideout {
+    from {
+        bottom: -10px;
+    }
+    to {
+        bottom: 5px;
+    }
+}
+.save{
+    position: absolute;
+    background-color: red;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 30px;
+    right: 5px;
+    top: 3px;
+    margin: 10px;
+    padding: 10px;
+}
+.info{
+    position: absolute;
+    background-color: rgba(245, 245, 245, 0.801);
+    color: black;
+    height: 40px;
+    width: 195px; 
+    border-radius: 20px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    bottom: 5px;
+    left: 10px;
+    margin: 10px;
+    padding: 0 10px;
+}
+.download{
+    position: absolute;
+    background-color: rgba(245, 245, 245, 0.801);
+    color: black;
+    height: 40px;
+    width: 40px; 
+    border-radius: 50px;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 45px;
+    bottom: 5px;
+    right: 55px;
+    margin: 10px;
+}
+.option{
+    position: absolute;
+    background-color: rgba(245, 245, 245, 0.801);
+    color: black;
+    height: 40px;
+    width: 40px; 
+    border-radius: 50px;
+    text-align: center;
+    font-size: 1.5em;
+    line-height: 45px;
+    bottom: 5px;
+    right: 5px;
+    margin: 10px;
+}

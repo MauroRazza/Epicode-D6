@@ -1,0 +1,109 @@
+BORDER RADIUS
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-radius
+https://codepen.io/lordgiotto/full/XWmXdrj
+https://codepen.io/lordgiotto/pen/mdeVyoL
+
+
+OVERFLOW
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+https://codepen.io/lordgiotto/full/PoPZqYx
+
+
+OBJECT-FIT
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit
+https://codepen.io/lordgiotto/full/qBObOXG
+https://codepen.io/lordgiotto/pen/ExVPVbG
+
+
+BOX SHADOW
+
+link sbagliati sulle slide
+https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow
+https://codepen.io/sdthornton/pen/wBZdXq
+
+
+TRANSITION
+
+link sbagliati sulle slide
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+Animatable CSS properties
+
+
+OVERLAY-POSITION: ABSOLUTE
+
+https://codepen.io/lordgiotto/pen/QWjyNNL
+
+
+LINEAR GRADIENT
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient
+https://codepen.io/lordgiotto/pen/abvdNwL
+https://cssgradient.io/
+
+
+Z-INDEX
+https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index
+https://codepen.io/lordgiotto/pen/XWmXdEa
+
+
+TEXT ELLIPSIS
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/white-space
+https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow
+https://codepen.io/lordgiotto/pen/KKdVMGo
+
+
+USER-SELECT
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/user-select
+
+
+TRIANGLE HACK
+
+https://css-tricks.com/snippets/css/css-triangle/
+http://apps.eky.hk/css-triangle-generator/
+
+
+CENTER ABSOLUTE CONTENT
+
+https://codepen.io/lordgiotto/pen/vYNLRRE
+
+
+CURSOR
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+
+
+OPACITY
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/opacity
+https://codepen.io/lordgiotto/full/RwWrvry
+
+
+TRANSFORM
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/transform
+https://codepen.io/lordgiotto/full/abvdrwW
+https://codepen.io/lordgiotto/pen/yLYOLrj
+
+
+
+SOME RESOURCES
+	
+	WEBSITES
+
+
+	https://css-tricks.com/
+	https://tympanus.net/codrops/
+	https://codepen.io/your-work
+
+	TOOLS
+
+	https://flatuicolors.com/	
+	https://cssgradient.io/
+	http://apps.eky.hk/css-triangle-generator/
